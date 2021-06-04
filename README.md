@@ -110,7 +110,7 @@ aca realizamos los calculos para econtrar porcentaje de error:
 
 aca mostramos las tablas con los calculos correspondientes:
 
-![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%201.jpg)
+![](https://github.com/eddy90cg/Laboratorio_1/blob/main/img/tabla%20de%20datos%200.jpg)
 
 Verificación de la LVK
 
