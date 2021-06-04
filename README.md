@@ -22,6 +22,8 @@ La practica de este laboratorio consiste en hacer la configuración en un circui
 
 ### 2. MARCO TEÓRICO
 
+![](https://github.com/eddy90cg/Laboratorio_1/blob/main/img/fce%20lab%20-%20simu-%20clase%201/mentefacto.jpg)
+
 Gustav Kirchhoff (1824-1887) fue un físico alemán nacido en marzo de 1824 en la entonces Prusia oriental. Durante su carrera científica realizó importantes contribuciones en campos como la electricidad, la espectroscopia o la medición de radiaciones de los cuerpos negros. 
 
 En 1845 enunció las denominadas leyes de Kirchhoff, aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica; entendidas como una extensión de la ley de la conservación de la energía, se basaban en la teoría del físico Georg Simon Ohm, según la cual la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente.
@@ -73,7 +75,7 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
  V3 = I3 (R4 + R5) – I2 (R4)
  
- ![](https://github.com/eddy90cg/Laboratorio_1/blob/main/img/fce%20lab%20-%20simu-%20clase%201/mentefacto.jpg)
+ 
 
 ### 3.DIAGRAMA
 
