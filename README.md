@@ -124,7 +124,7 @@ Verificación de la LCK
 
 Presntamos la simulacion realizada por la plataforma tiderkat:
 
-![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%205.jpg)
+![](https://github.com/eddy90cg/Laboratorio_1/blob/main/img/emulado%20tinkercad.jpeg)
 
 ### 7. APORTACIONES 
 
