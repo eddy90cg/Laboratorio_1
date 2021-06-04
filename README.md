@@ -114,7 +114,7 @@ aca realizamos los calculos para econtrar porcentaje de error:
 
 aca mostramos las tablas con los calculos correspondientes:
 
-![](https://github.com/eddy90cg/Laboratorio_1/blob/main/img/tabla%20de%20datos%200.jpg)
+![](https://github.com/eddy90cg/Laboratorio_1/blob/main/img/tabala%20resultados%20y%20error.jpg)
 
 Verificación de la LVK
 
