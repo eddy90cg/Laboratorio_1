@@ -72,6 +72,8 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 3). Los valores de resistencias y de tensiones se conocen, por lo tanto quedan 3 ecuaciones con 3 incógnitas (para 3 mallas interiores) en donde cada incógnita es la corriente de malla. Resolviendo el sistema se obtienen las corrientes. Si se obtiene alguna corriente negativa quiere decir que el sentido real es al revés del elegido.
 
  V3 = I3 (R4 + R5) – I2 (R4)
+ 
+ ![](https://github.com/eddy90cg/Laboratorio_1/blob/main/img/fce%20lab%20-%20simu-%20clase%201/mentefacto.jpg)
 
 ### 3.DIAGRAMA
 
